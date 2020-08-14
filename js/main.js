@@ -35,7 +35,7 @@
     parallaxElements: true,
    // horizontalScrolling: true,
     hideDistantElements: false,
-    scrollProperty: 'scroll'
+    //scrollProperty: 'scroll'
   });
 
 
